@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "816408532917",
+    "project_id": "viswam-user",
+    "storage_bucket": "viswam-user.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816408532917:android:f1b1a98baaf6c4ff256bfc",
+        "android_client_info": {
+          "package_name": "com.viswam.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816408532917-fofrnuj5uo0gnlakg3vpp71dic833kmb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.viswam.user",
+            "certificate_hash": "0821a5d1d97e0a0faf1b76ace3ec2eb235141d52"
+          }
+        },
+        {
+          "client_id": "816408532917-65j2c5pq7g233cr7ko9pk4jahqjd3hi1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGUkfFwyuQcpFOhAMBGkQ9d3pdNl-fbiw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "816408532917-65j2c5pq7g233cr7ko9pk4jahqjd3hi1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
